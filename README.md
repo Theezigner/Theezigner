@@ -118,7 +118,7 @@ An interactive credit card preview form with **TypeScript + Tailwind**, updating
 
 ## 📬 Let’s Connect
 
-- **Portfolio:** _Coming Soon_  
+- **Portfolio:** [Theezigner-portfolio](https://theezigner-porfolio.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/theezigner](www.linkedin.com/in/temitayo-adebayo-95244b239)  
 - **Email:** adebayotemitayo86@gmail.com
 
